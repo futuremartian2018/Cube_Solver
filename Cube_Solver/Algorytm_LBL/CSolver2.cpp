@@ -124,5 +124,11 @@ int main()
 		zapis.close();
 
 	}
+	
+	delete cube;
+	delete kosc;
+	delete algo;
+	
+	return 0;
 
 }
